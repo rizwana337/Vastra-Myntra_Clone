@@ -55,10 +55,10 @@ const Footer = () => {
           </div>
           <h5>KEEP IN TOUCH</h5>
           <div style={{ display: "flex", gap: "10px" }}>
-            <img className="socialIcon" src="/facebook.png" alt="" />
-            <img className="socialIcon" src="/twitter.png" alt="" />
-            <img className="socialIcon" src="/youtube.png" alt="" />
-            <img className="socialIcon" src="/instagram-symbol.png" alt="" />
+            <img className="socialIcon" src="https://e7.pngegg.com/pngimages/491/988/png-clipart-facebook-logo-circle-facebook-icon-icons-logos-emojis-social-media-icons-thumbnail.png" alt="" />
+            <img className="socialIcon" src="https://e7.pngegg.com/pngimages/708/311/png-clipart-twitter-twitter-thumbnail.png" alt="" />
+            <img className="socialIcon" src="https://w7.pngwing.com/pngs/208/269/png-transparent-youtube-play-button-computer-icons-youtube-youtube-logo-angle-rectangle-logo.png" alt="" />
+            <img className="socialIcon" src="https://w7.pngwing.com/pngs/322/394/png-transparent-logo-computer-icons-instagram-logo-miscellaneous-smile-screenshot.png" alt="" />
           </div>
         </div>
         <div>
