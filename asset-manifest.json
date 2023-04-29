@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Vastra-Myntra_Clone/static/css/main.6b77bc07.css",
+    "main.js": "/Vastra-Myntra_Clone/static/js/main.c0f33948.js",
+    "static/js/787.50ac0ea2.chunk.js": "/Vastra-Myntra_Clone/static/js/787.50ac0ea2.chunk.js",
+    "index.html": "/Vastra-Myntra_Clone/index.html",
+    "main.6b77bc07.css.map": "/Vastra-Myntra_Clone/static/css/main.6b77bc07.css.map",
+    "main.c0f33948.js.map": "/Vastra-Myntra_Clone/static/js/main.c0f33948.js.map",
+    "787.50ac0ea2.chunk.js.map": "/Vastra-Myntra_Clone/static/js/787.50ac0ea2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b77bc07.css",
+    "static/js/main.c0f33948.js"
+  ]
+}
